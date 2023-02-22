@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=./deploy.yml
 name: deploy-toy-website-environments
 concurrency: toy-company
 
